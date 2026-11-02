@@ -1,5 +1,5 @@
 # Production-Data-Analysis
-linear mixed-model and dbscan
+Acoustic speech production analysis using linear mixed-effects models and DBSCAN clustering in R
 
 # Bengali Stop Production Analysis
 
